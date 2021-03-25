@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jamesmillermusic
-- 👀 I’m interested in coding, skateboarding, finance, econometrics, coding, music, and many other areas.
+- 👀 I’m interested in coding, skateboarding, finance, econometrics, music, and many other areas.
 - 🌱 I’m currently learning R, Python/2/3, C++, C#, JavaScript, HTML5, and more efficient processes.
 - 💞️ I’m looking to collaborate on any project.
 
